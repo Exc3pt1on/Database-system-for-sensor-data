@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sensor Reader", "Sensor Reader\Sensor Reader.csproj", "{3A9FA458-11E5-43B9-8343-4FD39E9B595D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A9FA458-11E5-43B9-8343-4FD39E9B595D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A9FA458-11E5-43B9-8343-4FD39E9B595D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A9FA458-11E5-43B9-8343-4FD39E9B595D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A9FA458-11E5-43B9-8343-4FD39E9B595D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F96B2BBC-CA70-440D-B583-DB9B52003930}
+	EndGlobalSection
+EndGlobal

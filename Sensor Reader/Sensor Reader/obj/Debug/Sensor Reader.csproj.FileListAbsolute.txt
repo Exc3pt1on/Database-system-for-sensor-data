@@ -1,0 +1,15 @@
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 3\Sensor Reader\Sensor Reader\bin\Debug\Sensor Reader.exe.config
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 3\Sensor Reader\Sensor Reader\bin\Debug\Sensor Reader.exe
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 3\Sensor Reader\Sensor Reader\bin\Debug\Sensor Reader.pdb
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 3\Sensor Reader\Sensor Reader\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 3\Sensor Reader\Sensor Reader\bin\Debug\NationalInstruments.Common.dll
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 3\Sensor Reader\Sensor Reader\bin\Debug\NationalInstruments.DAQmx.xml
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 3\Sensor Reader\Sensor Reader\bin\Debug\NationalInstruments.Common.xml
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 3\Sensor Reader\Sensor Reader\obj\Debug\Sensor Reader.csproj.AssemblyReference.cache
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 3\Sensor Reader\Sensor Reader\obj\Debug\Sensor_Reader.Form1.resources
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 3\Sensor Reader\Sensor Reader\obj\Debug\Sensor_Reader.Properties.Resources.resources
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 3\Sensor Reader\Sensor Reader\obj\Debug\Sensor Reader.csproj.GenerateResource.cache
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 3\Sensor Reader\Sensor Reader\obj\Debug\Sensor Reader.csproj.CoreCompileInputs.cache
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 3\Sensor Reader\Sensor Reader\obj\Debug\Sensor R.89417987.Up2Date
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 3\Sensor Reader\Sensor Reader\obj\Debug\Sensor Reader.exe
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 3\Sensor Reader\Sensor Reader\obj\Debug\Sensor Reader.pdb
