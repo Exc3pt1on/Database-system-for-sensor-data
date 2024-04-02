@@ -1,0 +1,11 @@
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 3\IIT HMI\IIT HMI\bin\Debug\IIT HMI.exe.config
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 3\IIT HMI\IIT HMI\bin\Debug\IIT HMI.exe
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 3\IIT HMI\IIT HMI\bin\Debug\IIT HMI.pdb
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 3\IIT HMI\IIT HMI\obj\Debug\IIT HMI.csproj.AssemblyReference.cache
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 3\IIT HMI\IIT HMI\obj\Debug\IIT_HMI.Properties.Resources.resources
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 3\IIT HMI\IIT HMI\obj\Debug\IIT HMI.csproj.GenerateResource.cache
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 3\IIT HMI\IIT HMI\obj\Debug\IIT HMI.csproj.CoreCompileInputs.cache
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 3\IIT HMI\IIT HMI\obj\Debug\IIT HMI.exe
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 3\IIT HMI\IIT HMI\obj\Debug\IIT HMI.pdb
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 3\IIT HMI\IIT HMI\obj\Debug\IIT_HMI.Main.resources
+C:\Users\kimer\OneDrive - USN\Kim\Master\Semester 8\Industrial IT\Assignment 3\IIT HMI\IIT HMI\obj\Debug\IIT_HMI.ViewPage.resources
